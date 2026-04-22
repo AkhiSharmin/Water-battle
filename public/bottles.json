@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Hydro Flask",
+    "capacity": "750ml",
+    "material": "Stainless Steel",
+    "color": "Black",
+    "weight": "400g",
+    "usageDuration": "1 year",
+    "hotAndCold": true,
+    "img": "https://example.com/images/hydro-flask.jpg",
+    "price": 25
+  },
+  {
+    "id": 2,
+    "name": "Nalgene Bottle",
+    "capacity": "1L",
+    "material": "BPA-Free Plastic",
+    "color": "Blue",
+    "weight": "180g",
+    "usageDuration": "8 months",
+    "hotAndCold": false,
+    "img": "https://example.com/images/nalgene.jpg",
+    "price": 15
+  },
+  {
+    "id": 3,
+    "name": "CamelBak Eddy",
+    "capacity": "600ml",
+    "material": "Plastic",
+    "color": "Green",
+    "weight": "200g",
+    "usageDuration": "6 months",
+    "hotAndCold": false,
+    "img": "https://example.com/images/camelbak.jpg",
+    "price": 18
+  },
+  {
+    "id": 4,
+    "name": "Contigo Autoseal",
+    "capacity": "500ml",
+    "material": "Stainless Steel",
+    "color": "Silver",
+    "weight": "350g",
+    "usageDuration": "10 months",
+    "hotAndCold": true,
+    "img": "https://example.com/images/contigo.jpg",
+    "price": 20
+  },
+  {
+    "id": 5,
+    "name": "Thermos Bottle",
+    "capacity": "1.2L",
+    "material": "Stainless Steel",
+    "color": "Red",
+    "weight": "500g",
+    "usageDuration": "1.5 years",
+    "hotAndCold": true,
+    "img": "https://example.com/images/thermos.jpg",
+    "price": 30
+  }
+]
