@@ -2,9 +2,12 @@ import { Suspense } from "react";
 import "./App.css";
 import Bottles from "./components/Bottles/Bottles";
 
-const bottlesPromise = fetch("./../public/bottles.json").then((res) =>
-  res.json()
-);
+// const bottlesPromise = fetch("./../public/bottles.json").then((res) =>
+//   res.json()
+// );
+
+const bottlesPromise = fetch(`bottles.json`).then((res) => res.json());
+// .then((data) => console.log(data));
 
 function App() {
   // const bottles = [
